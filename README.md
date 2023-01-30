@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oscar Cardenas! <br/> CyberSecurity Student @ Hallmark University, <a href="https://www.linkedin.com/in/oscaracardenas">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Oscar Cardenas! <br/> Student @ Hallmark University, <a href="https://www.linkedin.com/in/oscaracardenas">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
