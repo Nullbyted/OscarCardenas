@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Enviroment : Windows 2016 Server](https://github.com/Nullbyted/WindowsAD)
   - [SIEM Enviroment **in progress**](https://github.com/Nullbyted/SIEM_Enviroment)
-  - [Snort IDS/IPS Rulest **in progress**](https://github.com/Nullbyted/Snort_IDS-IPS)
+  - [Snort IDS/IPS Rules **in progress**](https://github.com/Nullbyted/Snort_IDS-IPS)
   - [Sysmont **in progress**](https://github.com/Nullbyted/Sysmon)
 
 
