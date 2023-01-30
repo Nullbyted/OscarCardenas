@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
   - [Active Directory Enviroment : Windows 2016 Server](https://github.com/Nullbyted/WindowsAD)
   - [SIEM Enviroment **in progress**](https://github.com/Nullbyted/SIEM_Enviroment)
   - [Snort IDS/IPS Rules **in progress**](https://github.com/Nullbyted/Snort_IDS-IPS)
