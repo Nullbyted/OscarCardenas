@@ -13,6 +13,7 @@
   
 - [CompTIA Security+](https://github.com/Nullbyted/OscarCardenas/files/10522257/CompTIA.Security%2B.ce.certificate.pdf)
 - [CompTIA Network+](https://github.com/Nullbyted/OscarCardenas/files/10522245/CompTIA.Network%2B.ce.certificate.pdf)
+- [CompTIA CCP](https://www.credly.com/badges/9ebbc3c8-31f8-4951-8ad3-277e5134b7fb)
 
 
 
