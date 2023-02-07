@@ -31,5 +31,6 @@ Eager to apply skills to real-world challenges and make a positive impact in the
 
 [linkedin]:https://www.linkedin.com/in/oscaracardenas
 
-[<img align="left" alt="Oscar A Cardenas | Github" width="22px" src="https://user-images.githubusercontent.com/116131775/217347917-147d07f8-b056-41fb-b9ba-53c11f32ea90.png" />][
-"22px" src="" />][linkedin]
+[<img align="left" alt="Oscar A Cardenas | Github" width="22px" src="https://user-images.githubusercontent.com/116131775/217347917-147d07f8-b056-41fb-b9ba-53c11f32ea90.png" />][Github]
+  
+ [Github]:https://github.com/Nullbyted/OscarCardenas
