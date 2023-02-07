@@ -1,5 +1,11 @@
 <h1>Hi, I'm Oscar Cardenas! <br/> Student @ Hallmark University, <a href="https://www.linkedin.com/in/oscaracardenas">Cybersecurity Professional</a></h1>
 
+<h2> About Me: </h2>
+
+Highly motivated Cybersecurity student at Hallmark University with experience in Identity and Access Management. Keen on expanding knowledge in Threat Detection, Cloud Security, and Ethical Hacking. Adept at multitasking and task management with excellent communication skills and a technical mindset. Knowledge in security Tools (Kali Linux, Metasploit, Splunk, Wireshark). Average knowledge in Python and HTML
+
+Eager to apply skills to real-world challenges and make a positive impact in the field of cybersecurity. Committed to staying current with industry advancements and dedicated to delivering quality results. Confident in ability to effectively implement and manage security solutions.
+
 <h2>👨‍💻 Personal Projects:</h2>
 
 
@@ -23,6 +29,7 @@
 
 [<img align="left" alt="Oscar A Cardenas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 [linkedin]:https://www.linkedin.com/in/oscaracardenas
 
+[<img align="left" alt="Oscar A Cardenas | Github" width="22px" src="https://user-images.githubusercontent.com/116131775/217347917-147d07f8-b056-41fb-b9ba-53c11f32ea90.png" />][
+"22px" src="" />][linkedin]
