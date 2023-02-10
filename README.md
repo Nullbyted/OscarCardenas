@@ -13,7 +13,7 @@ Eager to apply skills to real-world challenges and make a positive impact in the
   - [SIEM Enviroment **in progress**](https://github.com/Nullbyted/SIEM_Enviroment)
   - [Snort IDS/IPS Rules **in progress**](https://github.com/Nullbyted/Snort_IDS-IPS)
   - [Sysmon **in progress**](https://github.com/Nullbyted/Sysmon)
-  - [Windows Privelage Escalation] **in progress**](https://github.com/Nullbyted/WindowsPriveEsc)
+  - [Windows Privelage Escalation **in progress**](https://github.com/Nullbyted/WindowsPriveEsc)
   - [Millenial Nmap Scan.py](https://github.com/Nullbyted/MillenialNmapScan)
 
 
